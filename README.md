@@ -1,7 +1,7 @@
 # Hey, I'm Ryan! 😄
 
-🎓 Junior at **UC Berkeley** studying IEOR & Data Science  
-🚀 Aspiring Product Manager | Incoming PM Intern @ Cisco  
+Junior at **UC Berkeley** studying IEOR & Data Science  
+🚀 Aspiring Product Manager | Incoming AI PM Intern @ Cisco  
 📍 Bay Area
 
 ---
