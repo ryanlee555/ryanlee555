@@ -2,18 +2,21 @@
 
 **IEOR & Data Science  @ UC Berkeley** • Product Manager • Bay Area 
 
----
-
 ## About Me
 
-I'm passionate about building products that actually move the needle for people.
-With a foundation in industrial engineering, operations research, and data science,
-I love finding the overlap between technical rigor and human-centered thinking —
-and turning that into products worth using.
-
-I'm always asking: *why does this exist, who does it serve, and how can it be better?*
+I'm passionate about developing and building products that actually make an impact
+for people. I love finding the overlap between **technical rigor** and
+**human-centered thinking**, and turning that into products actually worth using.
+I'm constantly learning, staying on top of what's new in tech, and building projects that push me to grow
 
 ---
+## Currently
+
+• Incoming PM intern @ **Cisco**, AI Infrastructure & Canvas team [Summer 2026 ☀️]
+• Finishing my TPM internship @ **Tesla**, Chassis Controls team 🚗
+• Deepening my knowledge in **agentic AI, LLMs, and AI infrastructure** 👨‍💻
+• Building side projects such as **Mealie** and **Money Spread** with AI integration 🍲
+
 
 <!--
 **ryanlee555/ryanlee555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
