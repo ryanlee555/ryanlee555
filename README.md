@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up! I'm Ryan, a student at UC Berkeley double majoring in Industrial Engineering and Operations Research (IEOR) and Data Science.
 
 <!--
 **ryanlee555/ryanlee555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
