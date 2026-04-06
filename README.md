@@ -1,6 +1,21 @@
-# Hey, I'm Ryan!
+# Hey, I'm Ryan! 😄
 
-I'm Ryan, a student at UC Berkeley double majoring in Industrial Engineering and Operations Research (IEOR) and Data Science.
+🎓 Junior at **UC Berkeley** studying IEOR & Data Science  
+🚀 Aspiring Product Manager | Incoming PM Intern @ Cisco  
+📍 Bay Area
+
+---
+
+## About Me
+
+I'm passionate about building products that actually move the needle for people.
+With a foundation in industrial engineering, operations research, and data science,
+I love finding the overlap between technical rigor and human-centered thinking —
+and turning that into products worth using.
+
+I'm always asking: *why does this exist, who does it serve, and how can it be better?*
+
+---
 
 <!--
 **ryanlee555/ryanlee555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
