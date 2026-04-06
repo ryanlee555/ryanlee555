@@ -1,4 +1,4 @@
-## What's up!
+# Hey, I'm Ryan!
 
 I'm Ryan, a student at UC Berkeley double majoring in Industrial Engineering and Operations Research (IEOR) and Data Science.
 
