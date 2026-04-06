@@ -7,7 +7,8 @@
 I'm passionate about developing and building products that actually make an impact
 for people. I love finding the overlap between **technical rigor** and
 **human-centered thinking**, and turning that into products actually worth using.
-I'm constantly learning, staying on top of what's new in tech, and building projects that push me to grow
+I'm constantly learning, staying on top of what's new in tech, and building projects
+that push me to grow
 
 ---
 ## Currently
