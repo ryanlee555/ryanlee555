@@ -24,7 +24,7 @@ that push me to grow
 ---
 ## I Code With
 
-<p align="left">
+<p align="middle">
   <img src="https://skillicons.dev/icons?i=python,postgres,figma,js,java,html,css,react,vite,nextjs,docker,aws" />
 </p>
 
