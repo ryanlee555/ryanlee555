@@ -28,6 +28,14 @@ that push me to grow
   <img src="https://skillicons.dev/icons?i=python,postgres,figma,js,java,html,css,react,vite,nextjs,docker,aws" />
 </p>
 
+---
+
+## My Projects
+
+<p align="middle">
+  <coming soon />
+</p>
+
 
 <!--
 **ryanlee555/ryanlee555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
