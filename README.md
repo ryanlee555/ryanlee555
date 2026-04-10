@@ -18,8 +18,7 @@ that push me to grow
 - 👨‍💻 Deepening my knowledge in **agentic AI, LLMs, and AI infrastructure**
 - 🍲 Building side projects such as **Mealie** and **Money Spread** integrating REST APIs and AI models
 - 🏃 Probably gymming, running, going to concerts, reading, or eating in my free time
-- 📬 Reach out to me at ryan.lee55@berkeley.edu or [LinkedIn](https://www.linkedin.com/in/ryan-lee-uc-berkeley/)
-- 💻 Check out my [personal portfolio](https://ryanlee.framer.website/)!
+- 📬 Reach out to me at ryan.lee55@berkeley.edu
 
 ---
 ## I Code With
