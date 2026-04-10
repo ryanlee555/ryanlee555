@@ -31,10 +31,7 @@ that push me to grow
 ---
 
 ## My Projects
-
-<p align="middle">
-  <coming soon />
-</p>
+*Coming soon...*
 
 
 <!--
