@@ -21,6 +21,13 @@ that push me to grow
 - 📬 Reach out to me at ryan.lee55@berkeley.edu or [LinkedIn](https://www.linkedin.com/in/ryan-lee-uc-berkeley/)
 - 💻 Check out my [personal portfolio](https://ryanlee.framer.website/)!
 
+---
+## I Code With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,figma,js,java,html,css,react,vite,nextjs,docker,aws" />
+</p>
+
 
 <!--
 **ryanlee555/ryanlee555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
