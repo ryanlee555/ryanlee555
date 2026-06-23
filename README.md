@@ -30,7 +30,10 @@ that push me to grow
 ---
 
 ## My Projects
-*Coming soon...*
+### 🌿 [Grove](https://grovee.vercel.app)
+A personal finance dashboard that connects real bank accounts (via Plaid) to give you a clean, interactive view of your spending with budgets, category breakdowns, and **Hamilton AI**, a built-in assistant that knows your transaction history and can answer questions about your finances. Built solo with React/Vite, Supabase, and the Anthropic API.
+
+*More projects coming soon...*
 
 
 <!--
