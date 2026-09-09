@@ -13,7 +13,7 @@ that push me to grow
 ---
 ## Currently
 
-- 🖼️ AI PM intern @ **Cisco**, AI Infrastructure & Canvas team
+- 🖼️ Former AI Product Manager intern @ **Cisco**, AI Canvas team
 - 🚗 Former TPM intern @ **Tesla**, Chassis Controls team
 - 👨‍💻 Deepening my knowledge in **agentic AI, LLMs, and AI infrastructure**
 - 🍲 Building side projects such as **Grove** integrating REST APIs and AI models
