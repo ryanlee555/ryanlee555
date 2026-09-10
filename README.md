@@ -33,6 +33,9 @@ that push me to grow
 ### 🌿 [Grove](https://grovee.vercel.app)
 A personal finance dashboard that connects real bank accounts (via Plaid) to give you a clean, interactive view of your spending with budgets, category breakdowns, and **Hamilton AI**, a built-in assistant that knows your transaction history and can answer questions about your finances. Built solo with React/Vite, Supabase, and the Anthropic API.
 
+### ☕️ [Speakeasy](https://speakeasy-beryl.vercel.app/)
+A public speaking practice app that records you answering prompts and plays them back, with 1,000+ topics across 13 categories and three practice modes. Recordings stay on your device until you make an account, and a **Daily Challenge** gives everyone the same prompt to keep a streak going. Built solo with vanilla JS, the MediaRecorder API, and Supabase.
+
 *More projects coming soon...*
 
 
