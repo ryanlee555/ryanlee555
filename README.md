@@ -11,12 +11,13 @@ I'm constantly learning, staying on top of what's new in tech, and building proj
 that push me to grow
 
 ---
-## Currently
+## My Life
 
-- 🖼️ Former AI Product Manager intern @ **Cisco**, AI Canvas team
-- 🚗 Former TPM intern @ **Tesla**, Chassis Controls team
+- 🖼️ AI Product Manager intern @ **Cisco**, AI Canvas team [June - Sept 2026]
+- 🚗 TPM intern @ **Tesla**, Chassis Controls team [Jan - Apr 2026]
+- 🚦 Supply Chain Intern @ **PepsiCo**, Transportations team [June - Sept 2025]
+- 💼 Contracted work with **Uber**, **ServiceNow**, and **PGA**
 - 👨‍💻 Deepening my knowledge in **agentic AI, LLMs, and AI infrastructure**
-- 🍲 Building side projects such as **Grove** integrating REST APIs and AI models
 - 🏃 Probably gymming, running, going to concerts, reading, or eating in my free time
 - 📬 Reach out to me at ryan.lee55@berkeley.edu
 
