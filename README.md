@@ -31,6 +31,9 @@ that push me to grow
 ---
 
 ## My Projects
+### 🐧 [Portfolio](https://www.ryanlee.io/)
+My personal portfolio, laid out like a baseball diamond. A tiny **penguin** waddles from base to base to take you through my experience, projects, and interests, and there's even a mini batting game called **Pinguball** hiding in the Interests page. Built solo with Next.js, React, and TypeScript, with a Formspree-powered contact form.
+
 ### 🌿 [Grove](https://grovee.vercel.app)
 A personal finance dashboard that connects real bank accounts (via Plaid) to give you a clean, interactive view of your spending with budgets, category breakdowns, and **Hamilton AI**, a built-in assistant that knows your transaction history and can answer questions about your finances. Built solo with React/Vite, Supabase, and the Anthropic API.
 
